@@ -13,7 +13,7 @@
 LanguageCode=fr
 
 # Main window
-OriginalFileName_TextBox=&Nom:
+OriginalFileName_TextBox=&Nom :
 Go_Button=&Aller
 RandomFile_Button=Fichie&r au hasard
 # LOCALIZATION NOTE: this should have the same access key as "RandomFile_Button"
@@ -29,9 +29,9 @@ Bytes_Format={0} octets
 OneEarlierVersion_Label=Une ancienne version
 EarlierVersions_Format={0} anciennes versions
 SelectVersion_Button=Choisir une &version...
-ContainsExifMetadata_Label=Métadonnées EXIF:
+ContainsExifMetadata_Label=Métadonnées EXIF :
 ViewMetadata_Button=Voir les &données
-ImageUsage_Label=Pages qui utilisent ce fichier:
+ImageUsage_Label=Pages qui utilisent ce fichier :
 NoImageUsages_Label=Aucune page n'utilise ce fichier
 SeeWikiForFullList_Label=voir le wiki pour une liste complète
 # LOCALIZATION NOTE: do not translate "File:" (this namespace name works on all wikis)
